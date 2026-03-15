@@ -73,5 +73,5 @@ Stacked bar chart showing the distribution of all uptime categories per month.
 
 
 
-## 🚀 Project Files
+## 🚀 Project Files : https://github.com/arkadhol13-droid/Telecom-GP-Uptime-Analysis/blob/main/Telecom_Uptime_Count_Analysis/Notebook/Monthly_Uptime.ipynb
 
